@@ -1,0 +1,30 @@
+{
+  "name": "koa2-session-redis",
+  "version": "0.0.1",
+  "description": "A simple redis store of koa-session",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lonord/koa2-session-redis.git"
+  },
+  "keywords": [
+    "koa",
+    "koa2",
+    "session",
+    "redis"
+  ],
+  "author": "Loy B. <lonord@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lonord/koa2-session-redis/issues"
+  },
+  "homepage": "https://github.com/lonord/koa2-session-redis#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "debug": "^2.6.3",
+    "redis": "^2.7.1"
+  }
+}
