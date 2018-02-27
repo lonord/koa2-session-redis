@@ -1,6 +1,6 @@
 {
   "name": "koa2-session-redis",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple redis store of koa-session",
   "main": "index.js",
   "scripts": {
